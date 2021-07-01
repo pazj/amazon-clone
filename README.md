@@ -2,10 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Hosting Link 
-
-https://challenge-2ef9a.web.app
-
 
 ## Available Scripts
 
